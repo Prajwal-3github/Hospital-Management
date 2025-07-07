@@ -85,12 +85,6 @@ Visit: http://localhost:3000
 
 Hi, I'm **Prajwal Shivajirao Jadhav** — a passionate full-stack developer and problem solver from IIIT Lucknow. I love building end-to-end products, crafting clean UIs, and solving real-world problems through code.
 
-### 🔗 Connect with Me
-
-- [GitHub](https://github.com/Aditya414singh)
-- [LinkedIn](https://linkedin.com/in/aditya-singh-gahlaut-7550a9257)
-- [Portfolio](https://portfolio-blue-zeta-37.vercel.app)
-
 > 📌 _Built with 💙 using React, Node.js, Express, MySQL (Frontend), and Spring Boot (Backend)JAVA._
 
 ---
