@@ -61,7 +61,7 @@ hospital-management-system/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Aditya414singh/hospital-management-system.git
+git clone https://github.com/Prajwal-3github/Hospital-Management.git
 ```
 2. Start Backend (Spring Boot)
 bash
@@ -83,7 +83,7 @@ Visit: http://localhost:3000
 
 ## 🚀 About the Developer
 
-Hi, I'm **Aditya Singh Gahlaut** — a passionate full-stack developer and problem solver from IIIT Lucknow. I love building end-to-end products, crafting clean UIs, and solving real-world problems through code.
+Hi, I'm **Prajwal Shivajirao Jadhav** — a passionate full-stack developer and problem solver from IIIT Lucknow. I love building end-to-end products, crafting clean UIs, and solving real-world problems through code.
 
 ### 🔗 Connect with Me
 
